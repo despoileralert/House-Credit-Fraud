@@ -1,0 +1,4 @@
+mlflow:
+  tracking_uri: http://localhost:5000
+  registry_uri: sqlite:///mlruns.db
+  experiment_name: mlops_experiment
